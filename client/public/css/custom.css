@@ -1,0 +1,21 @@
+.content {
+	margin-top: 4em;
+	width: 21em;
+	height: 34em;
+	margin-left: 4em;
+	position: relative;
+	background-color: #FFF;
+	color: black;
+	border-radius: 15px;
+	float: center;
+}
+.header {
+	height: 5em;
+}
+.btn-submit {
+	border-radius: 8px;
+}
+body {
+	background-color: #81908F;
+}
+
